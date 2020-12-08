@@ -6,7 +6,7 @@ params:
   palette: blue
   header:
     title: Rohit Saharan
-    tagline: Header Tagline
+    tagline: Change is Constant
     profile_img: images/avatar.png
     background: dark
     has_nav: true
