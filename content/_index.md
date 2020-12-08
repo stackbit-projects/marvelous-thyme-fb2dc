@@ -6,9 +6,6 @@ sections:
     type: section_posts
     title: Posts
     posts_number: 4
-    actions:
-      - label: View Blog
-        url: blog/index.html
-        style: button
+    actions: []
 layout: advanced
 ---
